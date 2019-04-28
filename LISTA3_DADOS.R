@@ -6,7 +6,7 @@
 
 # Exercicio1
 
-#https://github.com/karlagodoy/analisedadosUFPE.git
+# https://github.com/karlagodoy/Lista_3_UFPE
 
 # Exercicio2
 
