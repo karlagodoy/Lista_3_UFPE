@@ -148,4 +148,5 @@ prop.table(tabela_docentes)
 
 # 6.2
 
-#R: 31%, As colunas 2 e 3 são referente as pessoas que se declaram negras ou pardas, logo a resposta será a soma dos dois valores:0.035646520+ 0.277994393= 0.3136409 =  31,36%.
+#R: 31%, As colunas 2 e 3 são referente as pessoas que se declaram negras ou pardas, logo a resposta será a soma dos dois valores:
+# 0.035646520+ 0.277994393= 0.3136409 =  31,36%.
